@@ -16,7 +16,7 @@ cout << "NO";
 if (a==b)
 cout << "NO";
 if (a==b)
-cout << "NO";
+cou7t << "NO";
 if (a==b)
 cout << "NO";
 if (a==b)
