@@ -1,0 +1,24 @@
+int main
+{
+cin >> a >> b >> c >> d;
+if (a==b)
+cout << "NO";
+if (a==c)
+cout << "NO";
+if (a==d)
+cout << "NO";
+if (a==b)
+cout << "NO";
+if (c==b)
+cout << "NO";
+if (d==b)
+cout << "NO";
+if (a==b)
+cout << "NO";
+if (a==b)
+cout << "NO";
+if (a==b)
+cout << "NO";
+if (a==b)
+cout << "NO";
+}
